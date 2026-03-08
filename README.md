@@ -172,7 +172,25 @@ MIT License — ใช้ได้ฟรี ไม่ต้องขออนุ
 
 ---
 
-## 🤝 Contributors
+## 👨‍🏫 Workshop Instructor
 
-- X-Company — Production system reference
-- Workshop materials สร้างจากประสบการณ์จริงในการ deploy Enterprise AI
+<table>
+  <tr>
+    <td width="120"><img src="https://github.com/Anirach.png" width="100" style="border-radius:50%"/></td>
+    <td>
+      <strong>Anirach Mingkhwan, Ph.D.</strong><br/>
+      🎓 AI Researcher & Enterprise AI Architect<br/>
+      🏢 Managing Director — IT Systems Integration & AI Solutions<br/>
+      🔬 Research: Knowledge Graphs, RAG Systems, Brain Volumetric Analysis (AIiH 2026)<br/>
+      🤖 Built production AI Operating Systems serving enterprise teams with multi-agent architectures, GraphRAG, and local LLM deployment<br/>
+      📫 <a href="https://github.com/Anirach">GitHub @Anirach</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Acknowledgments
+
+- Open-source community — Ollama, Qdrant, Neo4j, LangChain, PyThaiNLP
+- Workshop materials crafted from real-world Enterprise AI deployment experience
