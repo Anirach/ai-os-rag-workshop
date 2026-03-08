@@ -14,7 +14,7 @@ Workshop 3 วัน สำหรับ Developer และ IT Professional ท�
 
 > Based on **production system** at **X-Company** — a real Enterprise AI deployment serving 50+ employees.
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/workshop-architecture.png)
 
 ---
 
@@ -133,7 +133,7 @@ ai-os-rag-workshop/
 ├── README.md
 ├── requirements.txt
 ├── assets/
-│   └── architecture.png
+│   └── workshop-architecture.png
 ├── day1/                          # Data Engineering & RAG Foundation
 │   ├── README.md
 │   ├── day1_data_engineering.ipynb
