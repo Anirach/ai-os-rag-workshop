@@ -18,7 +18,7 @@
 ```python
 # สร้าง sample text file
 sample_text = """
-บริษัท PPLUS Visions จำกัด
+บริษัท X-Company
 คู่มือพนักงาน ปี 2566
 
 ข้อ 1 เวลาทำงาน

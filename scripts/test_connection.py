@@ -136,7 +136,7 @@ def test_pymupdf() -> Tuple[bool, str]:
 def main():
     print(f"\n{BLUE}{'='*60}")
     print("  🔍 Workshop Environment Test")
-    print(f"  AI OS RAG Workshop — PPLUS Visions")
+    print(f"  AI OS RAG Workshop — X-Company")
     print(f"{'='*60}{RESET}\n")
     
     tests = [

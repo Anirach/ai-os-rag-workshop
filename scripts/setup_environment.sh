@@ -1,7 +1,7 @@
 #!/bin/bash
 # ======================================================
 # AI OS RAG Workshop — Environment Setup Script
-# PPLUS Visions Co., Ltd.
+# X-Company
 # ======================================================
 
 set -e  # Exit on error
@@ -21,7 +21,7 @@ info() { echo -e "${BLUE}ℹ️  $1${NC}"; }
 echo -e "${BLUE}"
 echo "========================================================"
 echo "  🤖 AI OS RAG Workshop - Setup"
-echo "  PPLUS Visions Co., Ltd."
+echo "  X-Company"
 echo "========================================================"
 echo -e "${NC}"
 

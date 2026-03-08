@@ -51,9 +51,9 @@ User Message
 
 ---
 
-## 🏢 Production Reference: PPLUS AI OS
+## 🏢 Production Reference: X-Company AI OS
 
-OpenClaw ที่ PPLUS ทำงานอย่างไร:
+OpenClaw ที่ X-Company ทำงานอย่างไร:
 - **5 modes**: HR, Finance, Operations, Engineering, Sales
 - **Auto-routing**: detect mode จาก keywords
 - **GraphRAG-rs**: ค้นหาใน 40 documents

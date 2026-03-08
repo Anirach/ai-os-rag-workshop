@@ -90,9 +90,9 @@ Knowledge Graph: "ประกัน" → Entity(ประกัน MTL) → [co
 | Entity linking | ❌ | ✅ |
 | Explainability | Low | High |
 
-### Production Reference (PPLUS)
+### Production Reference (X-Company)
 
-GraphRAG-rs ของ PPLUS:
+GraphRAG-rs ของ X-Company:
 - **Graph**: Employee → Benefit → Policy relationships
 - **Multi-hop**: "ประกัน" → covers → "OPD" → requires → "ใบรับรองแพทย์"
 - **Neo4j**: 200+ nodes, 500+ relationships จากเอกสาร HR + Safety

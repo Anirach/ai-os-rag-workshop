@@ -103,9 +103,9 @@ RAG:      Question → Search Docs → Context + Question → LLM → Answer
 
 ---
 
-## 📝 Notes จากระบบจริง (PPLUS)
+## 📝 Notes จากระบบจริง (X-Company)
 
-ระบบ GraphRAG-rs ที่ PPLUS ใช้จริง:
+ระบบ GraphRAG-rs ที่ X-Company ใช้จริง:
 - **1,728 chunks** จาก 40 documents
 - **bge-m3** embeddings (multilingual, รองรับไทย)
 - **Qdrant** เป็น vector database

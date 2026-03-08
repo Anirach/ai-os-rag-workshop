@@ -12,7 +12,7 @@
 
 Workshop 3 วัน สำหรับ Developer และ IT Professional ที่ต้องการเรียนรู้การสร้าง **AI Operating System** ที่ใช้ RAG (Retrieval-Augmented Generation) และ Knowledge Graph ในองค์กร
 
-> Based on **production system** at **PPLUS Visions Co., Ltd.** — a real Enterprise AI deployment serving 50+ employees.
+> Based on **production system** at **X-Company** — a real Enterprise AI deployment serving 50+ employees.
 
 ![Architecture](assets/architecture.png)
 
@@ -155,9 +155,9 @@ ai-os-rag-workshop/
 
 ---
 
-## 🏢 เกี่ยวกับ PPLUS
+## 🏢 เกี่ยวกับ X-Company
 
-Workshop นี้ based on production system ที่ PPLUS Visions Co., Ltd. ใช้งานจริง:
+Workshop นี้ based on production system ที่ X-Company ใช้งานจริง:
 
 - **GraphRAG-rs** — Semantic search engine with 1,728 chunks จาก 40 documents
 - **OpenClaw** — Multi-agent AI Operating System (HR, Finance, Sales, Engineering modes)
@@ -174,5 +174,5 @@ MIT License — ใช้ได้ฟรี ไม่ต้องขออนุ
 
 ## 🤝 Contributors
 
-- PPLUS Visions Co., Ltd. — Production system reference
+- X-Company — Production system reference
 - Workshop materials สร้างจากประสบการณ์จริงในการ deploy Enterprise AI
